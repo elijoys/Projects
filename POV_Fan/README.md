@@ -3,7 +3,7 @@ Sub $100 holographic fan that allows you to upload and display any image you wan
 Nordic UART streams data packages via BLE to rotating hub controller
 
 # Hardware + Software Overview
-Hardware
+<ins>Hardware</ins>
 - 2x PicoW microcontrollers
 - Custom PCB blades
 - 24 BLDC Motor
@@ -11,17 +11,17 @@ Hardware
 - Slip ring
 - DC Power Supply
 
-Software 
+<ins>Software</ins>
 - HTML / Javascript - HMI
 - Python - motor driver, BLE, LED driver, LED timing
 
 # Folders + File Overview
-ControllerA
+<ins>ControllerA</ins>
 - Only responsible for controlling the motor via PID
 - file
     - FinalMotorDriver.py
   
-ControllerB / HMI 
+<ins>ControllerB / HMI</ins>
 - Facilitates bluetooth connection and image slicing
 - files
     - main.py
