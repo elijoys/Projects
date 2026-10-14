@@ -2,7 +2,7 @@
 Sub $100 holographic fan that allows you to upload and display any image you want via a custom web application HMI 
 Nordic UART streams data packages via BLE to rotating hub controller
 
-# Hardware Software Overview
+# Hardware + Software Overview
 Hardware
 - 2x PicoW microcontrollers
 - Custom PCB blades
