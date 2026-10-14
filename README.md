@@ -79,5 +79,6 @@ Hardware
 - SG90 servo
 - 4xAA battery pack
 - Wheels
+
 Software
 - Python -> measure distance, sweep sensor, understand local environment, choose desired action, manage robot behavior/state, control physical motors, safety override, coordinate all systems 
